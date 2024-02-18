@@ -6,7 +6,9 @@ int main() {
     int a = 3;
     char b = 'C';
 
-    cout << a << '\n' << b;
+    //cout << a << '\n' << b;
+
+    cout << a << endl << b;
 
     return 0;
 }
